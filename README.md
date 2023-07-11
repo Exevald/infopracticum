@@ -1,0 +1,2 @@
+# infopracticum
+Infopracticum docs
